@@ -1,0 +1,1 @@
+terminal alanına "taş" , "kagit" , "makas" seçeneklerinden birini yazdığınızda, bilgisayar otomatik olarak kandine birini seçer ve "Tebrikler, kazandınız!" , "Bilgisayar kazandı." , ya da "Berabere." komutlarından birini size sunar.
